@@ -9,3 +9,5 @@ Este foi o meu primeiro repositorio remoto criado para trabalhar com o GitHub!
 - SSH
 
 confira meu perfil em: [KaioxDev](https://github.com/KaioxDev)
+
+Atualizado em outubro de 2024
